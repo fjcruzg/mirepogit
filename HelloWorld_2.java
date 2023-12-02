@@ -7,6 +7,9 @@ public class HelloWorld_2{
 =======
         System.err.println("Hot fix en dev");
          System.err.println("Cambio importante para mi otra rama");
+<<<<<<< HEAD
+>>>>>>> 3ae6dcc (Subiendo cambio importante desde feature)
+=======
 >>>>>>> 3ae6dcc (Subiendo cambio importante desde feature)
     }
 
